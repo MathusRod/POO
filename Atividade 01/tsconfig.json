@@ -1,0 +1,15 @@
+// {
+//   "compilerOptions": {
+//     "outDir": "public/dist",
+//     "target": "ESNext"
+//   },
+//   "watchOptions": {
+//     "watchDirectory": "useFsEvents",
+//     "watchFile": "useFsEvents"
+//   }
+// }
+{
+  "compilerOptions": {
+    "strictPropertyInitialization": false
+  }
+}
